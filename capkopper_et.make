@@ -7,7 +7,7 @@ core = 7.x
 projects[entity_translation][version] = 1.0-beta4
 projects[entity_translation][subdir] = contrib
 
-projects[entity_translation][patch][2497991] = https://www.drupal.org/files/issues/entity_translation-allow-translation-of-disabled-languages-2497991-3.patch
+projects[entity_translation][patch][2497991] = https://www.drupal.org/files/issues/entity_translation-allow-translation-of-disabled-languages-2497991-7.patch
 projects[entity_translation][patch][1707156] = https://www.drupal.org/files/issues/et-forward_revisions-1707156-33.patch
 
 ; Title
